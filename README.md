@@ -1,9 +1,9 @@
-Laverna package for Yunohost
+OpenNote package for Yunohost
 -------------
 
-Laverna prebuilt package for Yunohost
+OpenNote v15.07.00 package for Yunohost
 
 Links
 -------------
-- Laverna : https://laverna.cc/index.html
+- OpenNote : https://github.com/FoxUSA/OpenNote/
 - YunoHost : https://yunohost.org/
