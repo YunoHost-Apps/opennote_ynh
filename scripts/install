@@ -31,11 +31,12 @@ ynh_app_setting_set "$app" is_public "$is_public"
 sudo yunohost app checkurl "${domain}${path}" -a "$app" \
     || ynh_die "Path not available: ${domain}${path}"
 
-# Copy source files
+# Download files
 src_path=/var/www/$app
 sudo mkdir -p $src_path
 sudo wget -P "$src_path" https://github.com/FoxUSA/OpenNote/releases/download/15.07/15.07.00.zip -O "$src_path"/note.zip
 sudo unzip "$src_path"/note.zip -d "$src_path"
+sudo rm "$src_path"/note.zip
 
 # Set permissions to app files
 sudo chown -R root: $src_path
