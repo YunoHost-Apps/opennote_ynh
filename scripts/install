@@ -71,7 +71,7 @@ ynh_script_progression --message="Configuring nginx web server..." --time --weig
 ### `ynh_add_nginx_config` will use the file conf/nginx.conf
 
 # Create a dedicated nginx config
-ynh_add_nginx_config --phpversion="${YNH_PHP_VERSION}"
+ynh_add_nginx_config
 
 #=================================================
 # SECURE FILES AND DIRECTORIES
