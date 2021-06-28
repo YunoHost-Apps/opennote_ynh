@@ -3,12 +3,18 @@
     "id": "opennote",
     "packaging_format": 1,
     "description": {
-        "en": "Alternative to Microsoft OneNote (T) and EverNote.",
-        "fr": "Alternative web à Microsoft OneNote (T) and EverNote."
+        "en": "Alternative to Microsoft OneNote and EverNote.",
+        "fr": "Alternative web à Microsoft OneNote and EverNote."
     },
     "version": "18.03.00~ynh1",
     "url": "https://foxusa.github.io/OpenNote/OpenNote/",
-    "license": "free",
+    "upstream": {
+        "license": "MIT",
+        "website": "https://foxusa.github.io/OpenNote/OpenNote/",
+        "demo": "https://foxusa.github.io/OpenNote/OpenNote/#/folder",
+        "code": "https://github.com/FoxUSA/OpenNote/"
+    },
+    "license": "MIT",
     "maintainer": {
         "name": "Alex",
         "email": "apulido@free.fr",
@@ -19,9 +25,7 @@
     },
     "multi_instance": true,
     "services": [
-        "nginx",
-        "php7.3-fpm",
-        "mysql"
+        "nginx"
     ],
     "arguments": {
         "install" : [
