@@ -3,7 +3,7 @@
     "id": "opennote",
     "packaging_format": 1,
     "description": {
-        "en": "web based text editor/note taking software",
+        "en": "Web based text editor/note taking software",
         "fr": "Éditeur WEB de texte/logiciel de prise de notes"
     },
     "version": "18.03.00~ynh1",
