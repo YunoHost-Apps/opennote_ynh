@@ -11,7 +11,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ## Vue d'ensemble
 
-Alternative web à Microsoft OneNote and EverNote.
+Éditeur WEB de texte/logiciel de prise de notes
 
 **Version incluse :** 18.03.00~ynh1
 

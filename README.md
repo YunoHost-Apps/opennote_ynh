@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Alternative to Microsoft OneNote and EverNote.
+web based text editor/note taking software
 
 **Shipped version:** 18.03.00~ynh1
 
