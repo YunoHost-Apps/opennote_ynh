@@ -3,8 +3,8 @@
     "id": "opennote",
     "packaging_format": 1,
     "description": {
-        "en": "Alternative to Microsoft OneNote and EverNote.",
-        "fr": "Alternative web à Microsoft OneNote and EverNote."
+        "en": "web based text editor/note taking software",
+        "fr": "Éditeur WEB de texte/logiciel de prise de notes"
     },
     "version": "18.03.00~ynh1",
     "url": "https://foxusa.github.io/OpenNote/OpenNote/",
@@ -17,8 +17,7 @@
     "license": "MIT",
     "maintainer": {
         "name": "Alex",
-        "email": "apulido@free.fr",
-        "url": "https://github.com/Yunohost-Apps/OpenNote_ynh"
+        "email": "apulido@free.fr"
     },
     "requirements": {
         "yunohost": ">> 4.2.4"
