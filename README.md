@@ -15,7 +15,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-web based text editor/note taking software
+Web based text editor/note taking software
 
 **Shipped version:** 18.03.00~ynh1
 
