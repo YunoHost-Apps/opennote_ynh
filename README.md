@@ -21,6 +21,10 @@ web based text editor/note taking software
 
 **Demo:** https://foxusa.github.io/OpenNote/OpenNote/#/folder
 
+## Screenshots
+
+![](./doc/screenshots/screenshot.png)
+
 ## Documentation and resources
 
 * Official app website: https://foxusa.github.io/OpenNote/OpenNote/

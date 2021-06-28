@@ -17,6 +17,10 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 **Démo :** https://foxusa.github.io/OpenNote/OpenNote/#/folder
 
+## Captures d'écran
+
+![](./doc/screenshots/screenshot.png)
+
 ## Documentations et ressources
 
 * Site officiel de l'app : https://foxusa.github.io/OpenNote/OpenNote/
