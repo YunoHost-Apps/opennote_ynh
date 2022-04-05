@@ -25,6 +25,10 @@ Web based text editor/note taking software
 
 ![](./doc/screenshots/screenshot.png)
 
+## Disclaimers / important information
+
+This app works with the browser's local storage, so users won't find the notes if they switch their browser.
+
 ## Documentation and resources
 
 * Official app website: https://foxusa.github.io/OpenNote/OpenNote/

@@ -21,6 +21,10 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ![](./doc/screenshots/screenshot.png)
 
+## Avertissements / informations importantes
+
+This app works with the browser's local storage, so users won't find the notes if they switch their browser.
+
 ## Documentations et ressources
 
 * Site officiel de l'app : https://foxusa.github.io/OpenNote/OpenNote/
