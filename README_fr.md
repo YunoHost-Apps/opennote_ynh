@@ -17,7 +17,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 Éditeur WEB de texte/logiciel de prise de notes
 
-**Version incluse :** 18.03.00~ynh1
+**Version incluse :** 18.03.00~ynh2
 
 **Démo :** https://foxusa.github.io/OpenNote/OpenNote/#/folder
 
