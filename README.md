@@ -28,7 +28,7 @@ Web based text editor/note taking software
 
 ## Documentation and resources
 
-* Official app website: <https://foxusa.github.io/OpenNote/OpenNote/>
+* Official app website: <https://foxusa.github.io/OpenNote/>
 * Upstream app code repository: <https://github.com/FoxUSA/OpenNote/>
 * Report a bug: <https://github.com/YunoHost-Apps/opennote_ynh/issues>
 
