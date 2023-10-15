@@ -1,0 +1,51 @@
+packaging_format = 2
+
+id = "opennote"
+name = "OpenNote"
+description.en = "Web based text editor/note taking software"
+description.fr = "Éditeur WEB de texte/logiciel de prise de notes"
+
+version = "18.03.00~ynh2"
+
+maintainers = ["Alex"]
+
+[upstream]
+license = "MIT"
+website = "https://foxusa.github.io/OpenNote/OpenNote/"
+demo = "https://foxusa.github.io/OpenNote/OpenNote/#/folder"
+code = "https://github.com/FoxUSA/OpenNote/"
+
+[integration]
+yunohost = ">= 11.2"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/opennote"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/FoxUSA/OpenNote/releases/download/18.03.00/18.03.00.zip"
+        sha256 = "91ed10a31c38159c7c50a67c14b8305652f0958b1a7e5238900136386833f402"
+        in_subdir = false
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
