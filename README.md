@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Web based text editor/note taking software
 
-**Shipped version:** 23.10.15~ynh1
+**Shipped version:** 18.03.00~ynh3
 
 **Demo:** https://foxusa.github.io/OpenNote/OpenNote/#/folder
 
