@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Éditeur WEB de texte/logiciel de prise de notes
+Web based text editor/note taking software
 
 **Version incluse :** 18.03.00~ynh2
 
@@ -25,10 +25,6 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 ## Captures d’écran
 
 ![Capture d’écran de OpenNote](./doc/screenshots/screenshot.png)
-
-## Avertissements / informations importantes
-
-This app works with the browser's local storage, so users won't find the notes if they switch their browser.
 
 ## Documentations et ressources
 
