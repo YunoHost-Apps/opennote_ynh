@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # OpenNote for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/opennote.svg)](https://dash.yunohost.org/appci/app/opennote) ![Working status](https://ci-apps.yunohost.org/ci/badges/opennote.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/opennote.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/opennote.svg)](https://dash.yunohost.org/appci/app/opennote) ![Working status](https://ci-apps.yunohost.org/ci/badges/opennote.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/opennote.maintain.svg)
+
 [![Install OpenNote with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=opennote)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -33,7 +34,6 @@ This app works with the browser's local storage, so users won't find the notes i
 
 * Official app website: <https://foxusa.github.io/OpenNote/OpenNote/>
 * Upstream app code repository: <https://github.com/FoxUSA/OpenNote/>
-* YunoHost documentation for this app: <https://yunohost.org/app_opennote>
 * Report a bug: <https://github.com/YunoHost-Apps/opennote_ynh/issues>
 
 ## Developer info
