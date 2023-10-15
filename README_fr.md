@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Web based text editor/note taking software
 
-**Version incluse :** 18.03.00~ynh2
+**Version incluse :** 23.10.15~ynh1
 
 **Démo :** https://foxusa.github.io/OpenNote/OpenNote/#/folder
 
@@ -28,7 +28,7 @@ Web based text editor/note taking software
 
 ## Documentations et ressources
 
-* Site officiel de l’app : <https://foxusa.github.io/OpenNote/OpenNote/>
+* Site officiel de l’app : <https://foxusa.github.io/OpenNote/>
 * Dépôt de code officiel de l’app : <https://github.com/FoxUSA/OpenNote/>
 * Signaler un bug : <https://github.com/YunoHost-Apps/opennote_ynh/issues>
 

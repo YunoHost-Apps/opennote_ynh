@@ -5,13 +5,13 @@ name = "OpenNote"
 description.en = "Web based text editor/note taking software"
 description.fr = "Éditeur WEB de texte/logiciel de prise de notes"
 
-version = "18.03.00~ynh2"
+version = "23.10.15~ynh1"
 
 maintainers = ["Alex"]
 
 [upstream]
 license = "MIT"
-website = "https://foxusa.github.io/OpenNote/OpenNote/"
+website = "https://foxusa.github.io/OpenNote/"
 demo = "https://foxusa.github.io/OpenNote/OpenNote/#/folder"
 code = "https://github.com/FoxUSA/OpenNote/"
 
