@@ -11,7 +11,7 @@ maintainers = ["Alex"]
 
 [upstream]
 license = "MIT"
-website = "https://foxusa.github.io/OpenNote/OpenNote/"
+website = "https://foxusa.github.io/OpenNote/"
 demo = "https://foxusa.github.io/OpenNote/OpenNote/#/folder"
 code = "https://github.com/FoxUSA/OpenNote/"
 
