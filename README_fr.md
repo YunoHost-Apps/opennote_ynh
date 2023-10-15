@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # OpenNote pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/opennote.svg)](https://dash.yunohost.org/appci/app/opennote) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/opennote.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/opennote.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/opennote.svg)](https://dash.yunohost.org/appci/app/opennote) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/opennote.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/opennote.maintain.svg)
+
 [![Installer OpenNote avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=opennote)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer OpenNote rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer OpenNote rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Éditeur WEB de texte/logiciel de prise de notes
 
@@ -21,9 +22,9 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 **Démo :** https://foxusa.github.io/OpenNote/OpenNote/#/folder
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de OpenNote](./doc/screenshots/screenshot.png)
+![Capture d’écran de OpenNote](./doc/screenshots/screenshot.png)
 
 ## Avertissements / informations importantes
 
@@ -31,9 +32,8 @@ This app works with the browser's local storage, so users won't find the notes i
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://foxusa.github.io/OpenNote/OpenNote/>
-* Dépôt de code officiel de l'app : <https://github.com/FoxUSA/OpenNote/>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_opennote>
+* Site officiel de l’app : <https://foxusa.github.io/OpenNote/OpenNote/>
+* Dépôt de code officiel de l’app : <https://github.com/FoxUSA/OpenNote/>
 * Signaler un bug : <https://github.com/YunoHost-Apps/opennote_ynh/issues>
 
 ## Informations pour les développeurs
@@ -48,4 +48,4 @@ ou
 sudo yunohost app upgrade opennote -u https://github.com/YunoHost-Apps/opennote_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
